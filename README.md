@@ -41,3 +41,5 @@ Se alguma impressora monitorada ficar offline, o script reinicia automaticamente
   - Programa/script: powershell.exe
   - Adicionar argumentos: -File "C:\Scripts\MonitorarImpressoras.ps1"
   - Marque para rodar com privilégios elevados.
+
+![Descrição da imagem](/Img.jpeg)
